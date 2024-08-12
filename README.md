@@ -1,6 +1,6 @@
-# NEORIS BMS Designer Extension for z/OS
+# BMS Designer Extension for z/OS
 
-**NEORIS BMS Designer Extension for z/OS. It's an extension for Visual Studio Code that provides a graphic interface to build BMS files for CICS.**
+**BMS Designer Extension for z/OS. It's an extension for Visual Studio Code that provides a graphic interface to build BMS files for CICS.**
 
 This extension has been designed to help developers build BMS files.
 
